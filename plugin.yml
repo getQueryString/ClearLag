@@ -1,0 +1,9 @@
+name: ClearLag
+author: Fin/getQueryString
+version: 1.0
+main: clearname.cmd_ClearLag
+commands:
+  clearlag:
+    description: Entfernt alle Entitiys.
+    aliases:
+    - cl
